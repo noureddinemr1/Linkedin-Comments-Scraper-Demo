@@ -1,6 +1,5 @@
 # Selenium and WebDriver
 selenium==4.15.2
-webdriver-manager==4.0.1
 
 # Data handling
 pandas==2.1.4
@@ -9,15 +8,14 @@ openpyxl==3.1.2
 # Progress bars
 tqdm==4.66.1
 
+# Environment variables
+python-dotenv==1.0.0
+
 # Automation
 pyautogui==0.9.54
 
 # Network utilities
 requests==2.31.0
-portpicker==1.6.0
-
-# Environment variables
-python-dotenv==1.0.0
 
 # Additional utilities
 Pillow==10.1.0
